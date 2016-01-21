@@ -2,8 +2,8 @@
 int main()
 {
 	printf("hello");
-	printf("add");
-	printf("FIRST");
 	printf("second");
+	printf("FIRST");
+	printf("lets check password");
 return 0;
 }
