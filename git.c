@@ -4,6 +4,6 @@ int main()
 	printf("hello");
 	printf("second");
 	printf("FIRST");
-	printf("lets check password");
+	printf("no password");
 return 0;
 }
